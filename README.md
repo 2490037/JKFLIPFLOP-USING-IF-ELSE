@@ -41,7 +41,6 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
-
 module jkff(j,k,clk,q,qbar);
 input j,k,clk;
 output reg q,qbar;
@@ -50,7 +49,6 @@ begin
 q=1'b0;
 q=1'b1;
 end 
-
 always @(posedge clk)
 begin 
 q<=(j&~q)|(~k&q);

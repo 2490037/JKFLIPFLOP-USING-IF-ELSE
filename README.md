@@ -1,4 +1,6 @@
-# JKFLIPFLOP-USING-IF-ELSE
+### NAME:PRANAV S
+### REG NO:24900037
+### EXPERIMENT: JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:**  
 
@@ -58,7 +60,6 @@ qbar<=~q;
 end
 endmodule
 """
-Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: S.YOGESH RegisterNumber:24001573
 
 
 **RTL LOGIC FOR FLIPFLOPS**

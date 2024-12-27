@@ -1,10 +1,10 @@
-### NAME:PRANAV S
-### REG NO:24900037
-### EXPERIMENT: JKFLIPFLOP-USING-IF-ELSE
+### NAME : PRANAV S
+### REG NO : 24900037
+### EXPERIMENT 7: JK FLIPFLOP USING IF ELSE
 
 **AIM:**  
 
-To implement  JK flipflop using verilog and validating their functionality using their functional tables
+ JK flipflop using verilog and validating their functionality using their functional tables
 
 **SOFTWARE REQUIRED:**
 
